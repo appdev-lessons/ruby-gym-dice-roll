@@ -18,12 +18,11 @@ Write a program that:
 **Hints**: Use the `rand` method for the guess and dice roll like so: `rand(X)`, where `X` is the number of sides for a dice.
 
 ```ruby
-# write your program below using 
-# the provided variables to start
+# write your program below using the provided variables to start
 player_guess =
 computer_roll =
 ```
-{: .repl #dice_roll title="Dice Roll" readonly_lines="[1,2]"}
+{: .repl #dice_roll title="Dice Roll" readonly_lines="[1]"}
 
 
 ```ruby
