@@ -23,7 +23,7 @@ Write a program that:
 player_guess =
 computer_roll =
 ```
-{: .repl #dice_roll title="Dice Roll" readonly_lines="[1-2]"}
+{: .repl #dice_roll title="Dice Roll" readonly_lines="[1,2]"}
 
 
 ```ruby
